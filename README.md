@@ -17,6 +17,7 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 
 ## Demo
 
+[Visit This App](https://simple-calculator-by-kabir.vercel.app/)
 
 ![javascript-calculator](https://user-images.githubusercontent.com/47948084/230783857-6933cdde-4cba-43f5-8aeb-ef992d9507dc.png)
 
